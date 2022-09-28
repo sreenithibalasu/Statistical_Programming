@@ -2,6 +2,8 @@
 
 This repository contains some of the work I've done to demonstrate my stats programming skills.
 
+This also demonstrates my ability to code using the R language
+
 ## Contents
 
 - Hypothesis Testing
@@ -10,4 +12,5 @@ This repository contains some of the work I've done to demonstrate my stats prog
 - Regression and Classification
 - Principal Component Analysis
 - Canonical Correlation Analysis
+- Simple Data Visualization
 - Linear Discriminant Analysis
